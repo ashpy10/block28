@@ -1,3 +1,7 @@
+Deployed app link: https://lucent-jalebi-a9c277.netlify.app/
+
+
+
 <<<<<<< HEAD
 # block28
 =======
